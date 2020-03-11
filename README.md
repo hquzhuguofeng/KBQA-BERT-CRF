@@ -3,6 +3,7 @@
 
 ## Introduction
 本项目主要由两个重要的点组成，一是**基于BERT的命名实体识别**，二是**基于BERT的句子相似度计算**，本项目将这两个模块进行融合，构建基于BERT的KBQA问答系统.[**论文传送门**!](http://www.cnki.com.cn/Article/CJFDTotal-DLXZ201705041.htm) 
+详细介绍，请看我的博客：https://blog.csdn.net/weixin_46133588/article/details/104700425
 
 ### 环境配置
 
